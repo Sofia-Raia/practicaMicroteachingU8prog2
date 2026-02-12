@@ -1,0 +1,5 @@
+com\mycompany\practica\Email.class
+com\mycompany\practica\ErrorDeEnvioException.class
+com\mycompany\practica\Notificador.class
+com\mycompany\practica\EjercicioNotificaciones.class
+com\mycompany\practica\WhatsApp.class
