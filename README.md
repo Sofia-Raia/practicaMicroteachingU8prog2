@@ -1,4 +1,4 @@
-# # Consignas: # # 
+#  Consignas:  # 
 Ejercicio Rápido: "Sistema de Notificaciones Críticas"
 Tiempo: 20 min Objetivo: Crear un sistema polimórfico de alertas donde algunos canales pueden fallar, obligando a manejar la excepción para no detener el envío masivo.
 Enunciado:
